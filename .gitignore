@@ -1,3 +1,12 @@
+# Python
 .venv/
 __pycache__/
-.DS_Store
+*.pyc
+
+# React / Node (The Dashboard)
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.vite/
+
+# Environment / Keys
+.env

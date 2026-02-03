@@ -1,0 +1,242 @@
+[
+    {
+        "id": "UT-001",
+        "log": "Mains leak at SW1A 1AA, reported 14:00. High pressure. Requires immediate shutoff. Specialist team required.",
+        "Postcode": "SW1A 1AA",
+        "Urgency_Level": 5,
+        "Recommended_Action": "Dispatch specialist team for immediate mains shutoff and leak repair.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-002",
+        "log": "Routine check-up on G1 2QN. No issues found. System performing within standard parameters. Next service Oct 2026.",
+        "Postcode": "G1 2QN",
+        "Urgency_Level": 1,
+        "Recommended_Action": "No action required; continue routine monitoring and schedule next service for Oct 2026.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-003",
+        "log": "Slight rattle in the primary pump at the station near EH1 2NG. Doesn't look urgent but should be checked in the next month.",
+        "Postcode": "EH1 2NG",
+        "Urgency_Level": 2,
+        "Recommended_Action": "Schedule a maintenance check for the primary pump within the next 30 days.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-004",
+        "log": "EMERGENCY: Pipe burst at the junction of High St and Station Rd (B1 1BB). Water flooding local shops. Urgency: 5.",
+        "Postcode": "B1 1BB",
+        "Urgency_Level": 5,
+        "Recommended_Action": "Emergency response required to repair pipe burst and mitigate local flooding.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-005",
+        "log": "Customer query regarding meter reading in Cardiff. No fault found. Postcode unknown, customer was on mobile.",
+        "Postcode": "Incomplete Data",
+        "Urgency_Level": 1,
+        "Recommended_Action": "Close query as no fault was found.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-006",
+        "log": "Corrosion detected on external valve at LS1 4DY. Urgency is probably a 3. Schedule for repair within 14 days.",
+        "Postcode": "LS1 4DY",
+        "Urgency_Level": 3,
+        "Recommended_Action": "Schedule repair for the external valve within the next 14 days.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-007",
+        "log": "Standard inspection at site M4 1HQ. All seals intact. Pressure at 4.2 bar.",
+        "Postcode": "M4 1HQ",
+        "Urgency_Level": 1,
+        "Recommended_Action": "Routine inspection complete; no further action required.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-008",
+        "log": "Severe structural damage to pump housing after vehicle collision. Location: L1 0AB. CRITICAL. Risk of system failure.",
+        "Postcode": "L1 0AB",
+        "Urgency_Level": 5,
+        "Recommended_Action": "Immediate structural repair of pump housing to prevent system failure.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-009",
+        "log": "Low battery on telemetry unit at site near Brighton. Need to swap out the unit. Low priority.",
+        "Postcode": "Incomplete Data",
+        "Urgency_Level": 2,
+        "Recommended_Action": "Schedule replacement of the telemetry unit battery/unit in Brighton.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-010",
+        "log": "Smell of gas reported near the school on Oxford St. NO POSTCODE PROVIDED. Immediate attendance requested.",
+        "Postcode": "Incomplete Data",
+        "Urgency_Level": 5,
+        "Recommended_Action": "Immediate attendance for suspected gas leak investigation near Oxford St.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-011",
+        "log": "Vandalism at substation. Graffiti only, but gate left open. Postcode: G42 9AY. Priority: 2.",
+        "Postcode": "G42 9AY",
+        "Urgency_Level": 2,
+        "Recommended_Action": "Secure substation gate and schedule graffiti removal.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-012",
+        "log": "Unusual noise reported from transformer at IV1 1AA. Site is remote. May need a drone inspection.",
+        "Postcode": "IV1 1AA",
+        "Urgency_Level": 3,
+        "Recommended_Action": "Deploy drone for remote inspection of the transformer.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-013",
+        "log": "Scheduled maintenance for the entire block at CF10 1EP. Standard procedure. Category: Inspection.",
+        "Postcode": "CF10 1EP",
+        "Urgency_Level": 1,
+        "Recommended_Action": "Proceed with scheduled block inspection as per standard procedure.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-014",
+        "log": "Water quality report: slight turbidity in the line near BT7 1NN. Monitoring required over next 48h.",
+        "Postcode": "BT7 1NN",
+        "Urgency_Level": 2,
+        "Recommended_Action": "Monitor water turbidity levels for the next 48 hours.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-015",
+        "log": "Total power failure at the industrial estate (NE1 1AD). Businesses affected. High priority backup needed.",
+        "Postcode": "NE1 1AD",
+        "Urgency_Level": 5,
+        "Recommended_Action": "Deploy high-priority backup power and initiate fault repair for industrial estate.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-016",
+        "log": "Missing manhole cover on the pavement near the park. Location is NG1 5FW. Public safety hazard.",
+        "Postcode": "NG1 5FW",
+        "Urgency_Level": 4,
+        "Recommended_Action": "Cordon off area and replace missing manhole cover to ensure public safety.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-017",
+        "log": "General enquiry: customer asking about smart meter roll-out in the PL4 area. Not a fault.",
+        "Postcode": "PL4",
+        "Urgency_Level": 1,
+        "Recommended_Action": "Provide customer with information regarding the smart meter roll-out.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-018",
+        "log": "Vegetation overgrowth encroaching on power lines near S1 1WB. Needs trimming before winter storms.",
+        "Postcode": "S1 1WB",
+        "Urgency_Level": 2,
+        "Recommended_Action": "Schedule vegetation trimming near power lines before winter season.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-019",
+        "log": "Alarm triggered at pump station 4. Postcode: ZE1 0AA. False alarm caused by local wildlife.",
+        "Postcode": "ZE1 0AA",
+        "Urgency_Level": 1,
+        "Recommended_Action": "Reset alarm system and log as false alarm caused by wildlife.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-020",
+        "log": "URGENT: Sewage leak identified behind the shopping centre at YO1 7JF. Environment agency notified.",
+        "Postcode": "YO1 7JF",
+        "Urgency_Level": 5,
+        "Recommended_Action": "Immediate containment of sewage leak and coordination with Environment Agency.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-021",
+        "log": "Planned upgrade of fibre optics at site CB2 1PZ. Work to commence at 08:00 tomorrow.",
+        "Postcode": "CB2 1PZ",
+        "Urgency_Level": 1,
+        "Recommended_Action": "Begin planned fibre optic upgrade at 08:00 tomorrow.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-022",
+        "log": "Minor leak in the customer-side pipe. Advice given. Address: 12 High St, OX1 4JD.",
+        "Postcode": "OX1 4JD",
+        "Urgency_Level": 2,
+        "Recommended_Action": "No further utility-side action needed; customer has been advised on private pipe repair.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-023",
+        "log": "Potential gas leak. High priority. Location unknown - caller hung up but signal traced to Manchester area.",
+        "Postcode": "Incomplete Data",
+        "Urgency_Level": 5,
+        "Recommended_Action": "Coordinate with emergency services to trace location and investigate gas leak in Manchester.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-024",
+        "log": "Faulty street light outside 45 Queen St, AB10 1XG. Reported by council. Priority: Low.",
+        "Postcode": "AB10 1XG",
+        "Urgency_Level": 2,
+        "Recommended_Action": "Schedule repair for the faulty street light.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-025",
+        "log": "Smart meter installation scheduled for Monday at the property in EX1 1NT.",
+        "Postcode": "EX1 1NT",
+        "Urgency_Level": 1,
+        "Recommended_Action": "Perform scheduled smart meter installation on Monday.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-026",
+        "log": "Critical failure of the cooling system at the data centre. Postcode: EC1A 1BB. Immediate response triggered.",
+        "Postcode": "EC1A 1BB",
+        "Urgency_Level": 5,
+        "Recommended_Action": "Execute immediate response to repair data centre cooling system failure.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-027",
+        "log": "Routine survey of the drainage network in the PO1 area. No issues detected.",
+        "Postcode": "PO1",
+        "Urgency_Level": 1,
+        "Recommended_Action": "Complete documentation for routine drainage survey.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-028",
+        "log": "Suspicious activity reported near the pylon at TA1 1AA. Security dispatched.",
+        "Postcode": "TA1 1AA",
+        "Urgency_Level": 3,
+        "Recommended_Action": "Review security report following dispatch to pylon location.",
+        "Status": "Normal"
+    },
+    {
+        "id": "UT-029",
+        "log": "Frozen pipe reported at a commercial unit in DD1 1AA. No burst yet but high risk given the weather.",
+        "Postcode": "DD1 1AA",
+        "Urgency_Level": 4,
+        "Recommended_Action": "Thaw pipe and implement insulation measures to prevent bursting.",
+        "Status": "CRITICAL ALARM"
+    },
+    {
+        "id": "UT-030",
+        "log": "Multiple reports of low water pressure in the SE1 area. Investigating potential burst main.",
+        "Postcode": "SE1",
+        "Urgency_Level": 4,
+        "Recommended_Action": "Identify and locate suspected burst main causing low pressure in the area.",
+        "Status": "CRITICAL ALARM"
+    }
+]
