@@ -21,7 +21,6 @@ def process_and_save():
         return
 
     # 2. Setup the Model
-    # Using 'gemini-1.5-flash' as it is the stable current version
     model = genai.GenerativeModel('gemini-3-flash-preview') 
     
     prompt = f"""
@@ -61,7 +60,6 @@ def process_and_save():
             final_output.append(merged_record)
 
     # 4. Save to dashboard/src/
-    # We use os.path.join for better cross-platform (Mac/Windows) compatibility
     target_dir = os.path.join('dashboard', 'src')
     output_path = os.path.join(BASE_DIR, 'dashboard', 'src', 'processed_data.json')
 
